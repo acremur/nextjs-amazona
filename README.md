@@ -4,12 +4,18 @@ A Youtube video tutorial by [AI With Basir](https://www.youtube.com/watch?v=WLHC
 
 ## Initial Setup
 
-[install NextJs](https://nextjs.org/docs/app/getting-started/installation)
+[Install NextJs](https://nextjs.org/docs/app/getting-started/installation)
 
 `npx create-next-app@latest`
 
-[install Shadcn/ui](https://ui.shadcn.com/docs/installation/next)
+[Install Shadcn/ui](https://ui.shadcn.com/docs/installation/next)
 
 `pnpm dlx shadcn@latest init`
 
 `pnpm dlx shadcn@latest add button`
+
+## Implenten carousel
+
+`pnpm dlx shadcn@latest add carousel`
+
+`npm i embla-carousel-autoplay`
