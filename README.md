@@ -14,7 +14,7 @@ A Youtube video tutorial by [AI With Basir](https://www.youtube.com/watch?v=WLHC
 
 `pnpm dlx shadcn@latest add button`
 
-## Implenten carousel
+## Implement carousel
 
 `pnpm dlx shadcn@latest add carousel`
 
